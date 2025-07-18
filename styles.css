@@ -63,7 +63,7 @@ body {
   transform: translateX(-50%);
 }
 
-.imageContent img {
+img {
   width: 100%;
   height: 100%;
   object-fit: cover;
